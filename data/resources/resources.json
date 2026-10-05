@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "id": "resources-db",
+    "version": "1.0.0",
+    "count": 10,
+    "verified": true
+  },
+  "entries": [
+    {"id": "resource-001", "name": "IELTS Official Website", "organization": "IELTS Partners", "url": "https://www.ielts.org", "skills": ["listening", "reading", "writing", "speaking"], "level": "all", "ielts_relevance": "high", "test_type": "both", "cost": "free", "copyright": "official", "usefulness": "high", "reliability": "very_high"},
+    {"id": "resource-002", "name": "British Council IELTS", "organization": "British Council", "url": "https://takeielts.britishcouncil.org", "skills": ["listening", "reading", "writing", "speaking"], "level": "all", "ielts_relevance": "high", "test_type": "both", "cost": "free_and_paid", "copyright": "official", "usefulness": "high", "reliability": "very_high"},
+    {"id": "resource-003", "name": "IDP IELTS", "organization": "IDP", "url": "https://ieltsidp.com", "skills": ["listening", "reading", "writing", "speaking"], "level": "all", "ielts_relevance": "high", "test_type": "both", "cost": "free_and_paid", "copyright": "official", "usefulness": "high", "reliability": "very_high"},
+    {"id": "resource-004", "name": "Cambridge English", "organization": "Cambridge University Press", "url": "https://www.cambridgeenglish.org", "skills": ["listening", "reading", "writing", "speaking"], "level": "all", "ielts_relevance": "high", "test_type": "both", "cost": "free_and_paid", "copyright": "official", "usefulness": "high", "reliability": "very_high"},
+    {"id": "resource-005", "name": "IELTS Band Descriptors", "organization": "IELTS Partners", "url": "https://www.ielts.org/for-organisations/ielts-scoring-in-detail", "skills": ["writing", "speaking"], "level": "all", "ielts_relevance": "high", "test_type": "both", "cost": "free", "copyright": "official", "usefulness": "high", "reliability": "very_high"},
+    {"id": "resource-006", "name": "BBC Learning English", "organization": "BBC", "url": "https://www.bbc.co.uk/learningenglish", "skills": ["listening", "vocabulary", "pronunciation"], "level": "B1-C1", "ielts_relevance": "medium", "test_type": "both", "cost": "free", "copyright": "educational", "usefulness": "high", "reliability": "high"},
+    {"id": "resource-007", "name": "Cambridge Dictionary", "organization": "Cambridge University Press", "url": "https://dictionary.cambridge.org", "skills": ["vocabulary", "grammar", "pronunciation"], "level": "all", "ielts_relevance": "high", "test_type": "both", "cost": "free", "copyright": "official", "usefulness": "high", "reliability": "very_high"},
+    {"id": "resource-008", "name": "Oxford Learner's Dictionaries", "organization": "Oxford University Press", "url": "https://www.oxfordlearnersdictionaries.com", "skills": ["vocabulary", "grammar", "pronunciation"], "level": "all", "ielts_relevance": "high", "test_type": "both", "cost": "free", "copyright": "official", "usefulness": "high", "reliability": "very_high"},
+    {"id": "resource-009", "name": "Council of Europe CEFR", "organization": "Council of Europe", "url": "https://www.coe.int/en/web/common-european-framework-reference-languages", "skills": ["framework"], "level": "A1-C2", "ielts_relevance": "medium", "test_type": "both", "cost": "free", "copyright": "official", "usefulness": "high", "reliability": "very_high"},
+    {"id": "resource-010", "name": "IELTS Ireland", "organization": "IELTS Ireland", "url": "https://ielts.ie", "skills": ["listening", "reading", "writing", "speaking"], "level": "all", "ielts_relevance": "high", "test_type": "both", "cost": "free", "copyright": "official", "usefulness": "medium", "reliability": "high"}
+  ]
+}
