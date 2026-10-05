@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "id": "speaking-errors-db",
+    "version": "1.0.0",
+    "count": 15,
+    "primary_sources": ["Official speaking band descriptors", "Cambridge IELTS Common Mistakes"]
+  },
+  "entries": [
+    {"id": "error-speaking-003", "type": "memorized_answers", "incorrect": "Reciting prepared answers", "correct": "Speak naturally; adapt to questions", "cause": "Bad prep strategy", "criterion": "Fluency & Coherence", "impact": "Band 5 or lower", "strategy": "Practice with varied, spontaneous prompts"},
+    {"id": "error-speaking-004", "type": "one_word_answers", "incorrect": "Yes. No. Sometimes.", "correct": "Yes, because... For example...", "cause": "Low fluency", "criterion": "Fluency & Coherence", "impact": "Band 5 max", "strategy": "Extend with reason + example"},
+    {"id": "error-speaking-005", "type": "over_hesitation", "incorrect": "Um... ah... I mean...", "correct": "Occasional natural hesitation", "cause": "Searching for words", "criterion": "Fluency & Coherence", "impact": "Band 5-6", "strategy": "Practice fluency; learn paraphrasing strategies"},
+    {"id": "error-speaking-006", "type": "repetition", "incorrect": "I think... I think... I think...", "correct": "Vary: I believe, in my view, it seems to me...", "cause": "Limited range", "criterion": "Lexical Resource", "impact": "Band 6 max", "strategy": "Learn varied discourse markers"},
+    {"id": "error-speaking-007", "type": "forced_idioms", "incorrect": "It's raining cats and dogs in my opinion.", "correct": "Use natural expressions", "cause": "Misconception", "criterion": "Lexical Resource", "impact": "Sounds unnatural", "strategy": "Learn idioms in context; use naturally"},
+    {"id": "error-speaking-008", "type": "informal_slang", "incorrect": "That's sick, mate!", "correct": "That's impressive.", "cause": "Register unawareness", "criterion": "Lexical Resource", "impact": "Band 6 max", "strategy": "Register awareness"},
+    {"id": "error-speaking-009", "type": "subject_verb_agreement", "incorrect": "The people is...", "correct": "The people are...", "cause": "L1 interference", "criterion": "GRA", "impact": "Band 6 max if frequent", "strategy": "SVA drills"},
+    {"id": "error-speaking-010", "type": "tense_errors", "incorrect": "Yesterday I go to school.", "correct": "Yesterday I went to school.", "cause": "Tense control", "criterion": "GRA", "impact": "Band 6 max", "strategy": "Tense drills"},
+    {"id": "error-speaking-011", "type": "no_complex_grammar", "incorrect": "All simple sentences", "correct": "Mix of simple and complex", "cause": "Limited range", "criterion": "GRA", "impact": "Band 6 max", "strategy": "Practice complex structures in speech"},
+    {"id": "error-speaking-012", "type": "missing_endings", "incorrect": "He walk to school.", "correct": "He walks to school.", "cause": "Pronunciation of endings", "criterion": "GRA / Pronunciation", "impact": "Band 6 max", "strategy": "Ending pronunciation drills"},
+    {"id": "error-speaking-013", "type": "monotone_intonation", "incorrect": "Flat intonation throughout", "correct": "Vary stress and intonation", "cause": "Limited pronunciation range", "criterion": "Pronunciation", "impact": "Band 6 max", "strategy": "Intonation practice"},
+    {"id": "error-speaking-014", "type": "unclear_stress", "incorrect": "photoGRAPHer", "correct": "phoTOGrapher", "cause": "Word stress errors", "criterion": "Pronunciation", "impact": "Intelligibility", "strategy": "Word stress drills"},
+    {"id": "error-speaking-015", "type": "no_part3_depth", "incorrect": "Short, superficial Part 3 answers", "correct": "Abstract, developed, nuanced discussion", "cause": "Limited abstract reasoning", "criterion": "Fluency & Coherence", "impact": "Band 6 max", "strategy": "Practice Opinion-Reason-Example-Qualification"},
+    {"id": "error-speaking-016", "type": "ignoring_question", "incorrect": "Answering a different question", "correct": "Listen carefully; answer the actual question", "cause": "Nervousness", "criterion": "Fluency & Coherence", "impact": "Band 5-6", "strategy": "Clarify if unsure"},
+    {"id": "error-speaking-017", "type": "unnatural_complexity", "incorrect": "The aforementioned phenomenon which I have previously delineated...", "correct": "Use complex structures naturally", "cause": "Misconception", "criterion": "GRA", "impact": "Sounds unnatural", "strategy": "Balance complexity with naturalness"}
+  ]
+}
