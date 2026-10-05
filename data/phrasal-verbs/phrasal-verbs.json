@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "id": "phrasal-verbs-db",
+    "version": "1.0.0",
+    "count": 30,
+    "register_guidance": "Formal phrasal verbs acceptable in academic writing; informal phrasal verbs appropriate for Speaking only",
+    "primary_sources": ["Cambridge Phrasal Verbs Dictionary", "Oxford Phrasal Verbs Dictionary"]
+  },
+  "entries": [
+    {"id": "pv-001", "phrasal_verb": "carry out", "meaning": "to perform or conduct", "example": "Researchers carried out a comprehensive study.", "register": "formal_academic", "ielts_use": "Writing Task 2, Speaking Part 3", "formal_alternative": "conduct, perform"},
+    {"id": "pv-002", "phrasal_verb": "put forward", "meaning": "to propose or suggest", "example": "The government put forward a new policy proposal.", "register": "formal_academic", "ielts_use": "Writing Task 2", "formal_alternative": "propose, suggest"},
+    {"id": "pv-003", "phrasal_verb": "bring about", "meaning": "to cause to happen", "example": "Technology has brought about profound social change.", "register": "formal_academic", "ielts_use": "Writing Task 2, Speaking Part 3", "formal_alternative": "cause, generate, produce"},
+    {"id": "pv-004", "phrasal_verb": "account for", "meaning": "to explain or constitute", "example": "These factors account for the rise in crime rates.", "register": "formal_academic", "ielts_use": "Writing Task 1, Task 2", "formal_alternative": "explain, constitute"},
+    {"id": "pv-005", "phrasal_verb": "stem from", "meaning": "to originate from", "example": "Most social problems stem from inequality.", "register": "formal_academic", "ielts_use": "Writing Task 2", "formal_alternative": "originate from, derive from"},
+    {"id": "pv-006", "phrasal_verb": "result in", "meaning": "to cause", "example": "Deforestation results in loss of biodiversity.", "register": "formal_academic", "ielts_use": "Writing Task 1, Task 2", "formal_alternative": "cause, lead to"},
+    {"id": "pv-007", "phrasal_verb": "give rise to", "meaning": "to cause something to happen", "example": "The new policy gave rise to widespread protests.", "register": "formal_academic", "ielts_use": "Writing Task 2", "formal_alternative": "cause, generate"},
+    {"id": "pv-008", "phrasal_verb": "call for", "meaning": "to require or demand", "example": "The situation calls for immediate action.", "register": "formal_academic", "ielts_use": "Writing Task 2", "formal_alternative": "require, demand"},
+    {"id": "pv-009", "phrasal_verb": "set out", "meaning": "to begin or aim to do something", "example": "The essay sets out to examine both sides of the argument.", "register": "formal_academic", "ielts_use": "Writing Task 2", "formal_alternative": "aim, intend"},
+    {"id": "pv-010", "phrasal_verb": "draw on", "meaning": "to use as a resource", "example": "The study draws on data from multiple sources.", "register": "formal_academic", "ielts_use": "Writing Task 2, Reading", "formal_alternative": "utilise, employ"},
+    {"id": "pv-011", "phrasal_verb": "point out", "meaning": "to indicate or draw attention to", "example": "Critics point out that the policy has failed.", "register": "neutral_formal", "ielts_use": "Writing Task 2, Speaking Part 3", "formal_alternative": "indicate, observe"},
+    {"id": "pv-012", "phrasal_verb": "rule out", "meaning": "to eliminate or exclude", "example": "The government has ruled out raising taxes.", "register": "neutral_formal", "ielts_use": "Writing Task 2, Speaking Part 3", "formal_alternative": "exclude, eliminate"},
+    {"id": "pv-013", "phrasal_verb": "take on", "meaning": "to assume or undertake", "example": "Local councils have taken on greater responsibilities.", "register": "neutral_formal", "ielts_use": "Writing Task 2", "formal_alternative": "assume, undertake"},
+    {"id": "pv-014", "phrasal_verb": "bring in", "meaning": "to introduce", "example": "The government brought in new regulations.", "register": "neutral_formal", "ielts_use": "Writing Task 2", "formal_alternative": "introduce, implement"},
+    {"id": "pv-015", "phrasal_verb": "phase out", "meaning": "to gradually eliminate", "example": "Fossil fuels should be phased out over the next decade.", "register": "neutral_formal", "ielts_use": "Writing Task 2, Speaking Part 3", "formal_alternative": "eliminate gradually"},
+    {"id": "pv-016", "phrasal_verb": "break down", "meaning": "to fail or stop working", "example": "The negotiations broke down after hours of discussion.", "register": "informal_neutral", "ielts_use": "Speaking Part 1, Part 2", "formal_alternative": "fail, collapse"},
+    {"id": "pv-017", "phrasal_verb": "figure out", "meaning": "to understand or solve", "example": "I finally figured out the answer.", "register": "informal", "ielts_use": "Speaking Part 1, Part 2", "formal_alternative": "determine, solve"},
+    {"id": "pv-018", "phrasal_verb": "put off", "meaning": "to postpone", "example": "I had to put off studying until the weekend.", "register": "informal", "ielts_use": "Speaking Part 1, Part 2", "formal_alternative": "postpone, delay"},
+    {"id": "pv-019", "phrasal_verb": "come across", "meaning": "to find unexpectedly", "example": "I came across an interesting article.", "register": "informal_neutral", "ielts_use": "Speaking Part 1, Part 2, Reading", "formal_alternative": "encounter, discover"},
+    {"id": "pv-020", "phrasal_verb": "get along with", "meaning": "to have a good relationship with", "example": "I get along well with my colleagues.", "register": "informal", "ielts_use": "Speaking Part 1, Part 2", "formal_alternative": "have a good relationship with"},
+    {"id": "pv-021", "phrasal_verb": "turn down", "meaning": "to reject or refuse", "example": "She turned down the job offer.", "register": "informal_neutral", "ielts_use": "Speaking Part 1, Part 2", "formal_alternative": "reject, decline"},
+    {"id": "pv-022", "phrasal_verb": "give up", "meaning": "to stop trying; to quit", "example": "He gave up smoking last year.", "register": "informal", "ielts_use": "Speaking Part 1, Part 2", "formal_alternative": "quit, abandon"},
+    {"id": "pv-023", "phrasal_verb": "look into", "meaning": "to investigate", "example": "The authorities are looking into the matter.", "register": "neutral_formal", "ielts_use": "Speaking Part 3, Writing Task 2", "formal_alternative": "investigate, examine"},
+    {"id": "pv-024", "phrasal_verb": "look after", "meaning": "to take care of", "example": "She looks after her elderly parents.", "register": "informal", "ielts_use": "Speaking Part 1, Part 2", "formal_alternative": "care for, take care of"},
+    {"id": "pv-025", "phrasal_verb": "take up", "meaning": "to begin a hobby or activity", "example": "I've taken up reading English novels.", "register": "informal", "ielts_use": "Speaking Part 1, Part 2", "formal_alternative": "begin, start"},
+    {"id": "pv-026", "phrasal_verb": "run out of", "meaning": "to use up all of something", "example": "We've run out of time.", "register": "informal", "ielts_use": "Speaking Part 1, Part 2", "formal_alternative": "exhaust, deplete"},
+    {"id": "pv-027", "phrasal_verb": "come up with", "meaning": "to think of an idea or solution", "example": "She came up with a brilliant solution.", "register": "informal_neutral", "ielts_use": "Speaking Part 2, Part 3", "formal_alternative": "devise, conceive"},
+    {"id": "pv-028", "phrasal_verb": "put up with", "meaning": "to tolerate", "example": "I can't put up with the noise any longer.", "register": "informal", "ielts_use": "Speaking Part 2", "formal_alternative": "tolerate, endure"},
+    {"id": "pv-029", "phrasal_verb": "get over", "meaning": "to recover from", "example": "It took him months to get over the illness.", "register": "informal", "ielts_use": "Speaking Part 1, Part 2", "formal_alternative": "recover from, overcome"},
+    {"id": "pv-030", "phrasal_verb": "settle down", "meaning": "to start living a stable life", "example": "They decided to settle down in the countryside.", "register": "informal", "ielts_use": "Speaking Part 1, Part 2", "formal_alternative": "establish a home"}
+  ]
+}
