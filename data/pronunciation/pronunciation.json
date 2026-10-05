@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "id": "pronunciation-db",
+    "version": "1.0.0",
+    "count": 20,
+    "focus": "Intelligibility, not accent elimination",
+    "primary_sources": ["IELTS Ireland", "Cambridge English", "British Council"]
+  },
+  "entries": [
+    {"id": "pron-001", "feature": "word_stress", "description": "Stress within words can change meaning", "example": "REcord (noun) vs. reCORD (verb)", "band_7_requirement": "Consistently accurate word stress", "common_error": "Stressing wrong syllable"},
+    {"id": "pron-002", "feature": "word_stress", "description": "Multi-syllable word stress patterns", "example": "phoTOGrapher, ecoNOMics, deVELopment", "band_7_requirement": "Accurate stress in less common words", "common_error": "photoGRAPHer"},
+    {"id": "pron-003", "feature": "sentence_stress", "description": "Stressing important words for meaning", "example": "I used to LOVE watching TV, but now I HATE it.", "band_7_requirement": "Use stress to convey meaning and contrast", "common_error": "Flat delivery"},
+    {"id": "pron-004", "feature": "intonation", "description": "Rising and falling voice patterns", "example": "Rising for questions; falling for statements", "band_7_requirement": "Flexible use of intonation", "common_error": "Monotone speech"},
+    {"id": "pron-005", "feature": "intonation", "description": "Intonation for attitude and emphasis", "example": "Surprise, certainty, doubt conveyed through pitch", "band_7_requirement": "Use intonation to convey attitude", "common_error": "Single intonation pattern"},
+    {"id": "pron-006", "feature": "connected_speech", "description": "Linking words together naturally", "example": "When I was a child becomes when_I_was_a_child", "band_7_requirement": "Natural linking and blending", "common_error": "Word-by-word separation"},
+    {"id": "pron-007", "feature": "weak_forms", "description": "Reduction of unstressed function words", "example": "of becomes /əv/, to becomes /tə/, and becomes /ən/", "band_7_requirement": "Natural use of weak forms", "common_error": "Over-pronouncing weak forms"},
+    {"id": "pron-008", "feature": "vowel_sounds", "description": "Accurate production of vowel contrasts", "example": "/ɪ/ vs /iː/ (ship vs sheep)", "band_7_requirement": "Generally intelligible vowel production", "common_error": "Vowel length confusion"},
+    {"id": "pron-009", "feature": "consonant_sounds", "description": "Problematic consonants for many learners", "example": "/θ/ (think), /ð/ (this), /r/ vs /l/", "band_7_requirement": "Generally intelligible consonants", "common_error": "Substituting /s/ for /θ/"},
+    {"id": "pron-010", "feature": "word_endings", "description": "Pronunciation of -s, -ed, plural endings", "example": "walks /s/, played /d/, wanted /ɪd/", "band_7_requirement": "Accurate production of endings", "common_error": "Dropping endings entirely"},
+    {"id": "pron-011", "feature": "rhythm", "description": "Stress-timed rhythm of English", "example": "Meaningful word groups with natural pacing", "band_7_requirement": "Natural rhythm and pacing", "common_error": "Speaking too slowly or too fast"},
+    {"id": "pron-012", "feature": "chunking", "description": "Grouping words into meaningful phrases", "example": "When I was a child / I loved playing soccer", "band_7_requirement": "Speak in meaningful phrases", "common_error": "Single-word delivery"},
+    {"id": "pron-013", "feature": "silent_letters", "description": "Letters not pronounced", "example": "knife /naɪf/, psychology /saɪˈkɒlədʒi/", "band_7_requirement": "Accurate production of common silent letters", "common_error": "Pronouncing silent letters"},
+    {"id": "pron-014", "feature": "schwa", "description": "The most common English vowel sound", "example": "about /əˈbaʊt/, teacher /ˈtiːtʃə/", "band_7_requirement": "Natural use of schwa in unstressed syllables", "common_error": "Over-pronouncing unstressed syllables"},
+    {"id": "pron-015", "feature": "consonant_clusters", "description": "Multiple consonants together", "example": "strengths /streŋθs/, texts /teksts/", "band_7_requirement": "Generally intelligible cluster production", "common_error": "Inserting vowels between consonants"},
+    {"id": "pron-016", "feature": "elision", "description": "Omitting sounds in connected speech", "example": "next door becomes nex' door", "band_7_requirement": "Natural use of elision", "common_error": "Over-articulating every sound"},
+    {"id": "pron-017", "feature": "assimilation", "description": "Sounds changing to become more similar", "example": "don't you becomes don'cha", "band_7_requirement": "Natural use of assimilation", "common_error": "Unnatural separation of sounds"},
+    {"id": "pron-018", "feature": "intonation_questions", "description": "Rising intonation for yes/no questions", "example": "Are you coming? (rising)", "band_7_requirement": "Accurate question intonation", "common_error": "Falling intonation for all questions"},
+    {"id": "pron-019", "feature": "intonation_lists", "description": "Rising then falling for lists", "example": "We need apples, oranges, and bananas.", "band_7_requirement": "Accurate list intonation", "common_error": "Flat intonation in lists"},
+    {"id": "pron-020", "feature": "pausing", "description": "Meaningful pauses at clause boundaries", "example": "Pausing at commas and full stops", "band_7_requirement": "Strategic pausing to aid comprehension", "common_error": "Random or excessive pausing"}
+  ]
+}
