@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "total_lessons_planned": 40,
+    "total_lessons_built": 1,
+    "last_updated": "2026-10-05"
+  },
+  "lessons": [
+    {
+      "lesson_id": "L-3.3",
+      "title": "Lexical Precision in Writing Task 2",
+      "phase": "Band_6_to_7_Bridge",
+      "week": 17,
+      "unit_id": "unit-3.3",
+      "path": "lessons/phase-3-band-6-to-7/unit-3.3-lexical-precision/lesson-3.3.json",
+      "target_band": "7.0",
+      "cefr": "B2_to_C1",
+      "duration_minutes": 90,
+      "primary_criterion": "Lexical Resource",
+      "status": "complete"
+    }
+  ],
+  "planned_lessons": [
+    {"lesson_id": "L-1.1", "title": "Grammar Core - Tenses", "phase": "Foundation", "week": 1, "status": "planned"},
+    {"lesson_id": "L-1.2", "title": "Sentence Building", "phase": "Foundation", "week": 3, "status": "planned"},
+    {"lesson_id": "L-1.3", "title": "Vocabulary Foundations", "phase": "Foundation", "week": 4, "status": "planned"},
+    {"lesson_id": "L-1.4", "title": "Listening Foundations", "phase": "Foundation", "week": 5, "status": "planned"},
+    {"lesson_id": "L-1.5", "title": "Reading Foundations", "phase": "Foundation", "week": 6, "status": "planned"},
+    {"lesson_id": "L-1.6", "title": "Writing Foundations", "phase": "Foundation", "week": 6, "status": "planned"},
+    {"lesson_id": "L-1.7", "title": "Speaking Foundations", "phase": "Foundation", "week": 6, "status": "planned"},
+    {"lesson_id": "L-2.1", "title": "Listening Question Types", "phase": "Skills_Build", "week": 7, "status": "planned"},
+    {"lesson_id": "L-2.2", "title": "Reading Question Types", "phase": "Skills_Build", "week": 9, "status": "planned"},
+    {"lesson_id": "L-2.3", "title": "Academic Writing Task 1", "phase": "Skills_Build", "week": 11, "status": "planned"},
+    {"lesson_id": "L-2.4", "title": "GT Writing Task 1", "phase": "Skills_Build", "week": 11, "status": "planned"},
+    {"lesson_id": "L-2.5", "title": "Writing Task 2 Essay Types", "phase": "Skills_Build", "week": 12, "status": "planned"},
+    {"lesson_id": "L-2.6", "title": "Speaking Parts 1-2", "phase": "Skills_Build", "week": 13, "status": "planned"},
+    {"lesson_id": "L-2.7", "title": "Speaking Part 3", "phase": "Skills_Build", "week": 14, "status": "planned"},
+    {"lesson_id": "L-3.1", "title": "Task Response Upgrade", "phase": "Band_6_to_7", "week": 15, "status": "planned"},
+    {"lesson_id": "L-3.2", "title": "Coherence Upgrade", "phase": "Band_6_to_7", "week": 16, "status": "planned"},
+    {"lesson_id": "L-3.4", "title": "Grammar Control", "phase": "Band_6_to_7", "week": 18, "status": "planned"},
+    {"lesson_id": "L-3.5", "title": "Speaking Fluency", "phase": "Band_6_to_7", "week": 19, "status": "planned"},
+    {"lesson_id": "L-3.6", "title": "Listening/Reading Accuracy", "phase": "Band_6_to_7", "week": 20, "status": "planned"},
+    {"lesson_id": "L-4.1", "title": "Skilful Selection (Task 1)", "phase": "Band_7_to_8", "week": 21, "status": "planned"},
+    {"lesson_id": "L-4.2", "title": "Sophisticated Argument (Task 2)", "phase": "Band_7_to_8", "week": 22, "status": "planned"},
+    {"lesson_id": "L-4.3", "title": "Advanced Cohesion", "phase": "Band_7_to_8", "week": 23, "status": "planned"},
+    {"lesson_id": "L-4.4", "title": "Precise Lexis", "phase": "Band_7_to_8", "week": 24, "status": "planned"},
+    {"lesson_id": "L-4.5", "title": "Error-Free Majority", "phase": "Band_7_to_8", "week": 25, "status": "planned"},
+    {"lesson_id": "L-4.6", "title": "Pronunciation Features", "phase": "Band_7_to_8", "week": 26, "status": "planned"},
+    {"lesson_id": "L-5.1", "title": "Full Mock Test 1", "phase": "Exam_Simulation", "week": 27, "status": "planned"},
+    {"lesson_id": "L-5.2", "title": "Targeted Remediation", "phase": "Exam_Simulation", "week": 28, "status": "planned"},
+    {"lesson_id": "L-5.3", "title": "Full Mock Test 2", "phase": "Exam_Simulation", "week": 29, "status": "planned"},
+    {"lesson_id": "L-5.4", "title": "Final Refinement", "phase": "Exam_Simulation", "week": 30, "status": "planned"}
+  ]
+}
