@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ielts-c1-prep.local/schemas/grammar.schema.json",
+  "title": "Grammar Entry",
+  "type": "object",
+  "required": ["id", "topic", "classification", "cefr", "structure", "example"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^grammar-[a-z0-9]+-\\d{3}$"},
+    "topic": {"type": "string"},
+    "subtopic": {"type": "string"},
+    "classification": {"enum": ["CORE_FOR_IELTS_7_PLUS", "USEFUL_FOR_IELTS_7_8", "ADVANCED_C1", "C1+_OPTIONAL"]},
+    "cefr": {"enum": ["A1", "A2", "B1", "B2", "C1", "C2"]},
+    "structure": {"type": "string"},
+    "meaning": {"type": "string"},
+    "example": {"type": "string"},
+    "ielts_relevance": {"type": "object"},
+    "common_errors": {"type": "array", "items": {"type": "string"}}
+  }
+}
