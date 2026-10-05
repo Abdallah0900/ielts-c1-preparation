@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ielts-c1-prep.local/schemas/vocabulary.schema.json",
+  "title": "Vocabulary Entry",
+  "type": "object",
+  "required": ["id", "word", "pos", "def", "example", "topic", "cefr"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^vocab-[a-z0-9]+-\\d{3}$"},
+    "word": {"type": "string"},
+    "pos": {"enum": ["noun", "verb", "adjective", "adverb", "preposition", "conjunction", "phrase"]},
+    "ipa": {"type": "string"},
+    "def": {"type": "string"},
+    "example": {"type": "string"},
+    "topic": {"type": "string"},
+    "register": {"enum": ["formal_academic", "neutral_formal", "informal", "neutral"]},
+    "cefr": {"enum": ["A1", "A2", "B1", "B2", "C1", "C2"]},
+    "ielts_usefulness": {"enum": ["high", "medium", "low"]},
+    "synonyms": {"type": "array", "items": {"type": "string"}},
+    "antonyms": {"type": "array", "items": {"type": "string"}},
+    "word_family": {"type": "object"},
+    "collocations": {"type": "array", "items": {"type": "string"}}
+  }
+}
