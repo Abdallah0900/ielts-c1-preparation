@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "id": "word-formation-db",
+    "version": "1.0.0",
+    "count": 20,
+    "primary_sources": ["Cambridge Grammar", "Oxford Word Skills"]
+  },
+  "entries": [
+    {"id": "wf-001", "type": "prefix", "affix": "un-", "meaning": "not, opposite of", "examples": ["unhappy", "unemployment", "unreliable"], "ielts_relevance": "Reading, Writing", "common_errors": ["inpossible"]},
+    {"id": "wf-002", "type": "prefix", "affix": "dis-", "meaning": "not, opposite of", "examples": ["disadvantage", "disagree", "discrimination"], "ielts_relevance": "Reading, Writing", "common_errors": ["unadvantage"]},
+    {"id": "wf-003", "type": "prefix", "affix": "mis-", "meaning": "wrongly, badly", "examples": ["misunderstand", "misinterpret", "misinformation"], "ielts_relevance": "Reading, Writing", "common_errors": ["misterpret"]},
+    {"id": "wf-004", "type": "prefix", "affix": "over-", "meaning": "too much", "examples": ["overpopulation", "overestimate", "overcome"], "ielts_relevance": "Writing Task 2", "common_errors": ["overpopulate"]},
+    {"id": "wf-005", "type": "prefix", "affix": "under-", "meaning": "too little", "examples": ["undervalue", "underestimate", "underdeveloped"], "ielts_relevance": "Writing Task 2", "common_errors": ["underdevelop"]},
+    {"id": "wf-006", "type": "suffix", "affix": "-tion/-sion", "meaning": "forms nouns from verbs", "examples": ["education", "decision", "information"], "ielts_relevance": "Writing, Reading", "common_errors": ["decide_used_as_noun"]},
+    {"id": "wf-007", "type": "suffix", "affix": "-ment", "meaning": "forms nouns from verbs", "examples": ["development", "government", "employment"], "ielts_relevance": "Writing, Reading", "common_errors": ["develop_used_as_noun"]},
+    {"id": "wf-008", "type": "suffix", "affix": "-ness", "meaning": "forms nouns from adjectives", "examples": ["happiness", "effectiveness", "awareness"], "ielts_relevance": "Writing, Speaking", "common_errors": ["happyness"]},
+    {"id": "wf-009", "type": "suffix", "affix": "-ity", "meaning": "forms nouns from adjectives", "examples": ["productivity", "equality", "sustainability"], "ielts_relevance": "Writing Task 2", "common_errors": ["productiveness"]},
+    {"id": "wf-010", "type": "suffix", "affix": "-able/-ible", "meaning": "forms adjectives meaning can be", "examples": ["sustainable", "accessible", "comprehensible"], "ielts_relevance": "Writing Task 1, Task 2", "common_errors": ["sustainible"]},
+    {"id": "wf-011", "type": "suffix", "affix": "-ive", "meaning": "forms adjectives meaning having a quality", "examples": ["effective", "innovative", "productive"], "ielts_relevance": "Writing, Speaking", "common_errors": ["effectful"]},
+    {"id": "wf-012", "type": "suffix", "affix": "-ous", "meaning": "forms adjectives meaning full of", "examples": ["dangerous", "prosperous", "ambiguous"], "ielts_relevance": "Reading, Writing", "common_errors": ["dangerful"]},
+    {"id": "wf-013", "type": "suffix", "affix": "-ly", "meaning": "forms adverbs from adjectives", "examples": ["significantly", "dramatically", "effectively"], "ielts_relevance": "Writing Task 1, Task 2", "common_errors": ["significently"]},
+    {"id": "wf-014", "type": "suffix", "affix": "-ise/-ize", "meaning": "forms verbs from adjectives/nouns", "examples": ["modernise", "globalise", "standardise"], "ielts_relevance": "Writing Task 2", "common_errors": ["modernify"]},
+    {"id": "wf-015", "type": "suffix", "affix": "-ify", "meaning": "forms verbs meaning make", "examples": ["clarify", "simplify", "identify"], "ielts_relevance": "Writing Task 2", "common_errors": ["clearify"]},
+    {"id": "wf-016", "type": "suffix", "affix": "-ence/-ance", "meaning": "forms abstract nouns", "examples": ["preference", "importance", "consequence"], "ielts_relevance": "Writing Task 2", "common_errors": ["importence"]},
+    {"id": "wf-017", "type": "suffix", "affix": "-ist", "meaning": "forms nouns for people", "examples": ["scientist", "economist", "specialist"], "ielts_relevance": "Reading, Writing", "common_errors": ["scienceist"]},
+    {"id": "wf-018", "type": "suffix", "affix": "-ee", "meaning": "forms nouns for people receiving an action", "examples": ["employee", "trainee", "examinee"], "ielts_relevance": "Reading", "common_errors": ["employeer"]},
+    {"id": "wf-019", "type": "nominalisation", "affix": "verb_to_noun", "meaning": "converting verbs to nouns for academic density", "examples": ["implement to implementation", "reduce to reduction", "analyse to analysis"], "ielts_relevance": "Writing Task 2 (Band 8+)", "common_errors": ["analization"]},
+    {"id": "wf-020", "type": "negation", "affix": "in-/im-/il-/ir-", "meaning": "negative prefixes (assimilated)", "examples": ["ineffective", "impossible", "illegal", "irrelevant"], "ielts_relevance": "Reading, Writing", "common_errors": ["inlegal"]}
+  ]
+}
