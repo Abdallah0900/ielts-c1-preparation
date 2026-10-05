@@ -1,0 +1,42 @@
+{
+  "platform": {
+    "name": "IELTS C1 Prep",
+    "version": "1.0.0",
+    "default_language": "en",
+    "supported_languages": ["en", "ar"],
+    "theme": "light"
+  },
+  "ielts": {
+    "test_type": "general_training",
+    "target_band": 7.5,
+    "min_band": 7.0,
+    "max_band": 8.0,
+    "sections": [
+      "listening",
+      "reading",
+      "writing",
+      "speaking"
+    ]
+  },
+  "cefr": {
+    "start_level": "B1",
+    "target_level": "C1",
+    "reference_levels": [
+      "B1",
+      "B2",
+      "C1"
+    ],
+    "disclaimer": "CEFR and IELTS are different frameworks. Any mapping between them is approximate."
+  },
+  "curriculum": {
+    "total_weeks": 30,
+    "hours_per_week": 7.5,
+    "phases": 5,
+    "assessment_checkpoints_weeks": [6, 14, 20, 26, 30]
+  },
+  "progress_tracking": {
+    "enabled": true,
+    "storage": "localStorage",
+    "sync_enabled": false
+  }
+}
