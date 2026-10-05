@@ -1,0 +1,72 @@
+{
+  "lesson_metadata": {
+    "lesson_id": "L-3.3",
+    "unit_id": "unit-3.3",
+    "phase": "Band_6_to_7_Bridge",
+    "week": 17,
+    "title": "Lexical Precision in Writing Task 2",
+    "subtitle": "From adequate vocabulary (Band 6) to sufficient range with precision (Band 7)",
+    "duration_minutes": 90,
+    "cefr_level": "B2_to_C1",
+    "target_band": "7.0",
+    "primary_criterion": "Lexical Resource",
+    "secondary_criteria": ["Task Response", "Coherence & Cohesion"]
+  },
+  "learning_outcomes": [
+    "Distinguish the gap between Band 6 and Band 7 in Lexical Resource",
+    "Use 15+ high-value academic collocations accurately in Task 2 writing",
+    "Correct collocation errors in own writing",
+    "Replace informal lexis with academic equivalents",
+    "Write a Band 7-level Task 2 body paragraph"
+  ],
+  "sections": {
+    "warm_up": {
+      "duration_minutes": 10,
+      "activity": "Error Correction Race",
+      "description": "10 sentences with collocation errors. Learner corrects in 5 minutes.",
+      "key_insight": "Band 6 learners know individual words. Band 7 learners know how words combine accurately."
+    },
+    "presentation": {
+      "duration_minutes": 20,
+      "parts": [
+        "Band 6 vs Band 7 Lexical Resource descriptor comparison",
+        "The concept of collocation",
+        "Demonstration with Band 6 vs Band 7 sentences"
+      ],
+      "key_message": "Band 7 is not about harder words; it is about more precise words in natural combinations."
+    },
+    "guided_practice": {
+      "duration_minutes": 25,
+      "activities": [
+        "Collocation matching (10 items)",
+        "Error correction with reasoning (8 sentences)",
+        "Register conversion (5 informal sentences to academic)"
+      ]
+    },
+    "production": {
+      "duration_minutes": 25,
+      "task": "Write one Task 2 body paragraph (80-120 words) using at least 4 target collocations",
+      "peer_review": true
+    },
+    "assessment": {
+      "duration_minutes": 10,
+      "methods": ["Self-assessment checklist", "Exit ticket", "Teacher feedback"]
+    }
+  },
+  "homework": {
+    "vocabulary_review": "10 collocations in spaced repetition system",
+    "writing_task": "Full Task 2 essay (250+ words) using 8+ target collocations",
+    "error_log": "Add all collocation errors to error log"
+  },
+  "database_refs": {
+    "vocabulary": ["vocab-edu-001", "vocab-edu-002", "vocab-env-001"],
+    "collocations": ["collocation-001", "collocation-002", "collocation-013", "collocation-023", "collocation-043"],
+    "errors": ["error-writing-019", "error-writing-020", "error-writing-023", "error-writing-024"],
+    "grammar": ["grammar-c1-007", "grammar-c1-050"]
+  },
+  "differentiation": {
+    "if_too_easy": ["Rewrite sample paragraph to Band 8 standard", "Analyse 5 less common collocations from authentic sources"],
+    "if_too_hard": ["Reduce target collocations to 5", "Provide sentence starters", "Focus on one weakness at a time"]
+  },
+  "copyright_note": "All practice sentences, error examples, and sample paragraphs are ORIGINAL and teacher-written. No IELTS test questions or copyrighted passages have been reproduced."
+}
