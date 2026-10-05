@@ -1,0 +1,29 @@
+{
+  "topics": [
+    {"id": "education", "display_name": "Education", "entry_count": 4, "priority": "high"},
+    {"id": "environment", "display_name": "Environment", "entry_count": 4, "priority": "high"},
+    {"id": "technology", "display_name": "Technology", "entry_count": 4, "priority": "high"},
+    {"id": "health", "display_name": "Health", "entry_count": 4, "priority": "high"},
+    {"id": "society", "display_name": "Society", "entry_count": 4, "priority": "high"},
+    {"id": "economy", "display_name": "Economy", "entry_count": 4, "priority": "high"},
+    {"id": "media", "display_name": "Media & Communication", "entry_count": 4, "priority": "medium"},
+    {"id": "government", "display_name": "Government & Law", "entry_count": 4, "priority": "high"},
+    {"id": "transport", "display_name": "Transport & Cities", "entry_count": 4, "priority": "medium"},
+    {"id": "globalisation", "display_name": "Globalisation", "entry_count": 4, "priority": "medium"},
+    {"id": "tourism", "display_name": "Tourism & Travel", "entry_count": 4, "priority": "medium"},
+    {"id": "relationships", "display_name": "Relationships & Family", "entry_count": 4, "priority": "medium"},
+    {"id": "culture", "display_name": "Culture & Art", "entry_count": 4, "priority": "medium"},
+    {"id": "crime", "display_name": "Crime & Law", "entry_count": 4, "priority": "high"},
+    {"id": "food", "display_name": "Food & Consumerism", "entry_count": 4, "priority": "medium"},
+    {"id": "sport", "display_name": "Sport & Entertainment", "entry_count": 4, "priority": "low"},
+    {"id": "science", "display_name": "Science & Research", "entry_count": 4, "priority": "high"},
+    {"id": "work", "display_name": "Work & Career", "entry_count": 4, "priority": "high"},
+    {"id": "housing", "display_name": "Housing", "entry_count": 4, "priority": "medium"},
+    {"id": "advertising", "display_name": "Advertising", "entry_count": 4, "priority": "medium"},
+    {"id": "artificial_intelligence", "display_name": "Artificial Intelligence", "entry_count": 4, "priority": "high"},
+    {"id": "public_services", "display_name": "Public Services", "entry_count": 4, "priority": "medium"},
+    {"id": "social_problems", "display_name": "Social Problems", "entry_count": 4, "priority": "high"},
+    {"id": "development", "display_name": "Development", "entry_count": 4, "priority": "medium"},
+    {"id": "academic", "display_name": "Academic Language", "entry_count": 4, "priority": "high"}
+  ]
+}
