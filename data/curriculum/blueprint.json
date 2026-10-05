@@ -1,0 +1,32 @@
+{
+  "program": {
+    "name": "IELTS C1-Equivalent Preparation",
+    "total_weeks": 30,
+    "hours_per_week": 7.5,
+    "start_level": "B2 / IELTS 5.5-6.5",
+    "target_level": "C1 / IELTS 7.0-8.0"
+  },
+  "phases": [
+    {"phase_id": "phase-1", "name": "Foundation Strengthening", "weeks": [1, 6], "units_count": 7, "goal": "Consolidate B2 and close foundational gaps"},
+    {"phase_id": "phase-2", "name": "Skills Development", "weeks": [7, 14], "units_count": 7, "goal": "Master IELTS question types and strategies"},
+    {"phase_id": "phase-3", "name": "Band 6 to 7 Bridge", "weeks": [15, 20], "units_count": 6, "goal": "Cross the Band 7 threshold"},
+    {"phase_id": "phase-4", "name": "Band 7 to 8 Bridge", "weeks": [21, 26], "units_count": 6, "goal": "Achieve Band 8-level performance"},
+    {"phase_id": "phase-5", "name": "Exam Simulation", "weeks": [27, 30], "units_count": 4, "goal": "Perform under exam conditions"}
+  ],
+  "assessment_checkpoints": [
+    {"week": 6, "type": "Diagnostic Test"},
+    {"week": 14, "type": "Mock Test 1"},
+    {"week": 20, "type": "Band 7 Benchmark"},
+    {"week": 26, "type": "Band 8 Benchmark"},
+    {"week": 30, "type": "Final Mock Test"}
+  ],
+  "weekly_schedule": {
+    "Saturday": {"focus": "Grammar + Vocabulary", "duration_min": 90},
+    "Sunday": {"focus": "Listening practice", "duration_min": 60},
+    "Monday": {"focus": "Reading practice", "duration_min": 60},
+    "Tuesday": {"focus": "Writing Task 1 or 2", "duration_min": 90},
+    "Wednesday": {"focus": "Speaking practice", "duration_min": 60},
+    "Thursday": {"focus": "Vocabulary review + Error log", "duration_min": 45},
+    "Friday": {"focus": "Rest or light review", "duration_min": 0}
+  }
+}
