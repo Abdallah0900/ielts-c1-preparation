@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ielts-c1-prep.local/schemas/error.schema.json",
+  "title": "Error Entry",
+  "type": "object",
+  "required": ["id", "type", "incorrect", "correct", "cause", "criterion"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^error-(writing|speaking|listening|reading)-\\d{3}$"},
+    "type": {"type": "string"},
+    "incorrect": {"type": "string"},
+    "correct": {"type": "string"},
+    "cause": {"type": "string"},
+    "criterion": {"type": "string"},
+    "impact": {"type": "string"},
+    "strategy": {"type": "string"}
+  }
+}
