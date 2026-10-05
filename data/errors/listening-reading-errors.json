@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "id": "listening-reading-errors-db",
+    "version": "1.0.0",
+    "count": 10,
+    "primary_sources": ["British Council", "Cambridge IELTS"]
+  },
+  "entries": [
+    {"id": "error-listening-001", "type": "chasing_missed_answer", "incorrect": "Dwelling on missed question", "correct": "Move on immediately", "cause": "Test anxiety", "criterion": "Listening", "impact": "Multiple lost marks", "strategy": "Practice timed listening; learn to let go"},
+    {"id": "error-listening-002", "type": "spelling", "incorrect": "enviroment", "correct": "environment", "cause": "Spelling weakness", "criterion": "Listening", "impact": "Lost mark even if heard correctly", "strategy": "Spelling drills"},
+    {"id": "error-listening-003", "type": "word_limit_violation", "incorrect": "Writing 4 words when limit is 3", "correct": "Adhere strictly to word limit", "cause": "Carelessness", "criterion": "Listening", "impact": "Lost mark", "strategy": "Underline word limit; count words"},
+    {"id": "error-listening-004", "type": "distractor_fallacy", "incorrect": "Choosing first-mentioned option", "correct": "Wait for final confirmed answer", "cause": "Not recognising distractors", "criterion": "Listening", "impact": "Lost mark", "strategy": "Distractor awareness training"},
+    {"id": "error-reading-001", "type": "TFNG_confusion", "incorrect": "Marking False when answer is Not Given", "correct": "False = contradicts; NG = not mentioned", "cause": "Misunderstanding of task", "criterion": "Reading", "impact": "Systematic lost marks", "strategy": "TFNG logic drills"},
+    {"id": "error-reading-002", "type": "time_overrun", "incorrect": "Spending 25 min on first passage", "correct": "20 min max per passage", "cause": "Time mismanagement", "criterion": "Reading", "impact": "Unanswered questions", "strategy": "Timed practice; strict passage limits"},
+    {"id": "error-reading-003", "type": "keyword_only_matching", "incorrect": "Matching exact words only", "correct": "Recognise paraphrase and synonyms", "cause": "Limited paraphrase recognition", "criterion": "Reading", "impact": "Lost marks", "strategy": "Paraphrase training"},
+    {"id": "error-reading-004", "type": "not_reading_questions_first", "incorrect": "Reading passage before questions", "correct": "Skim passage, then read questions carefully", "cause": "Inefficient strategy", "criterion": "Reading", "impact": "Time waste", "strategy": "Strategic approach"},
+    {"id": "error-reading-005", "type": "overthinking", "incorrect": "Overanalysing simple questions", "correct": "Answer based on text evidence", "cause": "Anxiety", "criterion": "Reading", "impact": "Time waste", "strategy": "Trust the text; don't infer beyond"},
+    {"id": "error-reading-006", "type": "leaving_blanks", "incorrect": "Leaving unknown answers blank", "correct": "Always guess - no penalty", "cause": "Misconception", "criterion": "Reading", "impact": "Lost marks", "strategy": "Never leave blank"}
+  ]
+}
