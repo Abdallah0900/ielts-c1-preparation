@@ -1,0 +1,24 @@
+{
+  "units": [
+    {"id": "unit-1.1", "phase": "phase-1", "title": "Grammar Core", "weeks": [1, 2], "primary_focus": "grammar"},
+    {"id": "unit-1.2", "phase": "phase-1", "title": "Sentence Building", "weeks": [2, 3], "primary_focus": "grammar"},
+    {"id": "unit-1.3", "phase": "phase-1", "title": "Vocabulary Foundations", "weeks": [3, 4], "primary_focus": "vocabulary"},
+    {"id": "unit-1.4", "phase": "phase-1", "title": "Listening Foundations", "weeks": [4, 5], "primary_focus": "listening"},
+    {"id": "unit-1.5", "phase": "phase-1", "title": "Reading Foundations", "weeks": [5, 6], "primary_focus": "reading"},
+    {"id": "unit-1.6", "phase": "phase-1", "title": "Writing Foundations", "weeks": [6], "primary_focus": "writing"},
+    {"id": "unit-1.7", "phase": "phase-1", "title": "Speaking Foundations", "weeks": [6], "primary_focus": "speaking"},
+    {"id": "unit-2.1", "phase": "phase-2", "title": "Listening Question Types", "weeks": [7, 8], "primary_focus": "listening"},
+    {"id": "unit-2.2", "phase": "phase-2", "title": "Reading Question Types", "weeks": [9, 10], "primary_focus": "reading"},
+    {"id": "unit-2.3", "phase": "phase-2", "title": "Academic Writing Task 1", "weeks": [11], "primary_focus": "writing"},
+    {"id": "unit-2.4", "phase": "phase-2", "title": "GT Writing Task 1", "weeks": [11], "primary_focus": "writing"},
+    {"id": "unit-2.5", "phase": "phase-2", "title": "Writing Task 2", "weeks": [12], "primary_focus": "writing"},
+    {"id": "unit-2.6", "phase": "phase-2", "title": "Speaking Parts 1-2", "weeks": [13], "primary_focus": "speaking"},
+    {"id": "unit-2.7", "phase": "phase-2", "title": "Speaking Part 3", "weeks": [14], "primary_focus": "speaking"},
+    {"id": "unit-3.1", "phase": "phase-3", "title": "Task Response Upgrade", "weeks": [15], "primary_focus": "writing"},
+    {"id": "unit-3.2", "phase": "phase-3", "title": "Coherence Upgrade", "weeks": [16], "primary_focus": "writing"},
+    {"id": "unit-3.3", "phase": "phase-3", "title": "Lexical Precision", "weeks": [17], "primary_focus": "vocabulary", "lesson_built": "L-3.3"},
+    {"id": "unit-3.4", "phase": "phase-3", "title": "Grammar Control", "weeks": [18], "primary_focus": "grammar"},
+    {"id": "unit-3.5", "phase": "phase-3", "title": "Speaking Fluency", "weeks": [19], "primary_focus": "speaking"},
+    {"id": "unit-3.6", "phase": "phase-3", "title": "Listening/Reading Accuracy", "weeks": [20], "primary_focus": "listening_reading"}
+  ]
+}
