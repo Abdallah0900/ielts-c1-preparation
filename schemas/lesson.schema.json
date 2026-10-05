@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ielts-c1-prep.local/schemas/lesson.schema.json",
+  "title": "Lesson",
+  "type": "object",
+  "required": ["lesson_metadata", "learning_outcomes", "sections"],
+  "properties": {
+    "lesson_metadata": {
+      "type": "object",
+      "required": ["lesson_id", "unit_id", "phase", "week", "title", "duration_minutes"],
+      "properties": {
+        "lesson_id": {"type": "string", "pattern": "^L-\\d+\\.\\d+$"},
+        "unit_id": {"type": "string"},
+        "phase": {"type": "string"},
+        "week": {"type": "integer"},
+        "title": {"type": "string"},
+        "duration_minutes": {"type": "integer"},
+        "cefr_level": {"type": "string"},
+        "target_band": {"type": "string"},
+        "primary_criterion": {"type": "string"},
+        "secondary_criteria": {"type": "array", "items": {"type": "string"}}
+      }
+    },
+    "learning_outcomes": {"type": "array", "items": {"type": "string"}},
+    "sections": {
+      "type": "object",
+      "properties": {
+        "warm_up": {"type": "object"},
+        "presentation": {"type": "object"},
+        "guided_practice": {"type": "object"},
+        "production": {"type": "object"},
+        "assessment": {"type": "object"}
+      }
+    },
+    "homework": {"type": "object"},
+    "database_refs": {"type": "object"},
+    "differentiation": {"type": "object"}
+  }
+}
