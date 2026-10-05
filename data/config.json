@@ -1,0 +1,78 @@
+{
+  "platform": {
+    "name": "IELTS C1 Prep",
+    "version": "1.0.0",
+    "default_language": "en",
+    "supported_languages": ["en", "ar"],
+    "theme": "light",
+    "branding": {
+      "primary_color": "#1a5490",
+      "accent_color": "#f39c12"
+    }
+  },
+  "features": {
+    "spaced_repetition": {
+      "enabled": true,
+      "algorithm": "SM-2",
+      "default_intervals_days": [1, 3, 7, 14, 30, 60]
+    },
+    "progress_tracking": {
+      "enabled": true,
+      "storage": "localStorage",
+      "sync_enabled": false
+    },
+    "assessment": {
+      "informal_scoring": true,
+      "disclaimer_required": true,
+      "disclaimer_text": "AI-generated feedback is for formative learning purposes only and is NOT an official IELTS score. Official IELTS scores require official assessment."
+    },
+    "error_log": {
+      "enabled": true,
+      "categories": ["grammar", "vocabulary", "collocation", "register", "pronunciation", "task_response", "coherence"]
+    }
+  },
+  "ielts": {
+    "target_band": 7.5,
+    "min_band": 7.0,
+    "max_band": 8.0,
+    "test_type": "both",
+    "sections": ["listening", "reading", "writing", "speaking"],
+    "band_scale": [0, 1, 2, 3, 4, 5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9]
+  },
+  "cefr": {
+    "target_level": "C1",
+    "reference_levels": ["B2", "C1", "C2"],
+    "disclaimer": "CEFR and IELTS are different frameworks. Mappings are approximate."
+  },
+  "curriculum": {
+    "total_weeks": 30,
+    "hours_per_week": 7.5,
+    "phases": 5,
+    "assessment_checkpoints_weeks": [6, 14, 20, 26, 30]
+  },
+  "navigation": {
+    "primary_menu": [
+      {"label": "Home", "path": "/"},
+      {"label": "Curriculum", "path": "/curriculum/"},
+      {"label": "Grammar", "path": "/grammar/"},
+      {"label": "Vocabulary", "path": "/vocabulary/"},
+      {"label": "Collocations", "path": "/collocations/"},
+      {"label": "Listening", "path": "/listening/"},
+      {"label": "Reading", "path": "/reading/"},
+      {"label": "Writing", "path": "/writing/"},
+      {"label": "Speaking", "path": "/speaking/"},
+      {"label": "Mock Tests", "path": "/mock-tests/"},
+      {"label": "Progress", "path": "/progress/"}
+    ]
+  },
+  "attribution": {
+    "requires_attribution": true,
+    "attribution_text": "Content is original except where indicated. Band descriptors are summarized from official IELTS public documentation.",
+    "official_sources": [
+      "https://www.ielts.org",
+      "https://takeielts.britishcouncil.org",
+      "https://ieltsidp.com",
+      "https://www.coe.int"
+    ]
+  }
+}
